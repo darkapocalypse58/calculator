@@ -12,7 +12,7 @@ The styling is up to you so use your imagination and get creative! You might
 also find it worth your time to experiment with the calculator app on your
 mobile device to better understand basic functionality and edge cases.
 
-### Constraints
+### Constraints 1
 
 - You may not use the `eval()` function to execute calculations
 
